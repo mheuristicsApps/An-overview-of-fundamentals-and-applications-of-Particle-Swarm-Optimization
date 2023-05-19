@@ -15,3 +15,6 @@ In addition to the fundamental concepts, the book delves into various variations
 
 
 Overall, " An Overview of Fundamentals of Particle Swarm Optimization" serves as a valuable resource for readers interested in learning and implementing PSO. Its use of the Python programming language offers the advantage of practical code examples and facilitates experimentation and understanding. The book equips readers with the necessary knowledge to apply PSO effectively and provides insights into mathematical optimization and metaheuristic concepts.
+
+![image](https://github.com/mheuristicsApps/An-overview-of-fundamentals-and-applications-of-Particle-Swarm-Optimization/assets/133129676/9d7ba2d2-c14f-4b5b-804c-4731718da0f9)
+
